@@ -31,7 +31,7 @@ export default function Home() {
                 backgroundColor: '#363C43',
                 width: '720px',
                 height: '4px',
-                boxShadow: '0 4px 8px rgba(0, 0, 0, 0.3)'
+                boxShadow: '0 4px 8px rgba(0, 0, 0, 0.6)'
               }}
             >
             </div>
@@ -49,7 +49,7 @@ export default function Home() {
                 backgroundColor: '#363C43',
                 width: '720px',
                 height: '4px',
-                boxShadow: '0 4px 8px rgba(0, 0, 0, 0.3)'
+                boxShadow: '0 4px 8px rgba(0, 0, 0, 0.6)'
               }}
             >
             </div>
